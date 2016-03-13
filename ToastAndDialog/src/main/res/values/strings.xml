@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">MyApplication2</string>
+    <string-array name="citys">
+        <item>长沙</item>
+        <item>岳阳</item>
+        <item>益阳</item>
+        <item>永州</item>
+    </string-array>
+</resources>
