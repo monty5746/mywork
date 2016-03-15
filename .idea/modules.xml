@@ -9,6 +9,8 @@
       <module fileurl="file://$PROJECT_DIR$/MyQQ1/MyQQ1.iml" filepath="$PROJECT_DIR$/MyQQ1/MyQQ1.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyView/MyView.iml" filepath="$PROJECT_DIR$/MyView/MyView.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyWork.iml" filepath="$PROJECT_DIR$/MyWork.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PageChangeDemo/PageChangeDemo.iml" filepath="$PROJECT_DIR$/PageChangeDemo/PageChangeDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SurfaceViewDemo/SurfaceViewDemo.iml" filepath="$PROJECT_DIR$/SurfaceViewDemo/SurfaceViewDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ToastAndDialog/ToastAndDialog.iml" filepath="$PROJECT_DIR$/ToastAndDialog/ToastAndDialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/animationdemo/animationdemo.iml" filepath="$PROJECT_DIR$/animationdemo/animationdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapp2/myapp2.iml" filepath="$PROJECT_DIR$/myapp2/myapp2.iml" />
