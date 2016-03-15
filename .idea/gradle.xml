@@ -10,6 +10,8 @@
         <option name="modules">
           <set>
             <option value="$PROJECT_DIR$" />
+            <option value="$PROJECT_DIR$/GamePuzzle" />
+            <option value="$PROJECT_DIR$/HandlerDemo" />
             <option value="$PROJECT_DIR$/ImoocPrictice" />
             <option value="$PROJECT_DIR$/ListView" />
             <option value="$PROJECT_DIR$/MyQQ1" />
@@ -17,7 +19,6 @@
             <option value="$PROJECT_DIR$/ToastAndDialog" />
             <option value="$PROJECT_DIR$/animationdemo" />
             <option value="$PROJECT_DIR$/myapp2" />
-            <option value="$PROJECT_DIR$/myapplication2" />
           </set>
         </option>
       </GradleProjectSettings>

@@ -2,6 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/GamePuzzle/GamePuzzle.iml" filepath="$PROJECT_DIR$/GamePuzzle/GamePuzzle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/HandlerDemo/HandlerDemo.iml" filepath="$PROJECT_DIR$/HandlerDemo/HandlerDemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/ImoocPrictice/ImoocPrictice.iml" filepath="$PROJECT_DIR$/ImoocPrictice/ImoocPrictice.iml" />
       <module fileurl="file://$PROJECT_DIR$/ListView/ListView.iml" filepath="$PROJECT_DIR$/ListView/ListView.iml" />
       <module fileurl="file://$PROJECT_DIR$/MyQQ1/MyQQ1.iml" filepath="$PROJECT_DIR$/MyQQ1/MyQQ1.iml" />
@@ -10,7 +12,6 @@
       <module fileurl="file://$PROJECT_DIR$/ToastAndDialog/ToastAndDialog.iml" filepath="$PROJECT_DIR$/ToastAndDialog/ToastAndDialog.iml" />
       <module fileurl="file://$PROJECT_DIR$/animationdemo/animationdemo.iml" filepath="$PROJECT_DIR$/animationdemo/animationdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/myapp2/myapp2.iml" filepath="$PROJECT_DIR$/myapp2/myapp2.iml" />
-      <module fileurl="file://$PROJECT_DIR$/myapplication2/myapplication2.iml" filepath="$PROJECT_DIR$/myapplication2/myapplication2.iml" />
     </modules>
   </component>
 </project>

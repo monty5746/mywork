@@ -1,1 +1,1 @@
-include ':myapp2', ':MyQQ1', ':myapplication2', ':ToastAndDialog', ':animationdemo', ':ImoocPrictice', ':MyView', ':ListView', ':'
+include ':myapp2', ':MyQQ1', ':ToastAndDialog', ':animationdemo', ':ImoocPrictice', ':MyView', ':ListView', ':GamePuzzle', ':HandlerDemo'
